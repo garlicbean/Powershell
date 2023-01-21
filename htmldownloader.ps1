@@ -14,7 +14,7 @@ $depth = 1
 
 #Set to $true to silence console output
 $silent = $false
-
+#--------------------------------------------------------------------------------------------------
 
 
 #Creates files for storing the links
